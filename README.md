@@ -61,11 +61,3 @@ Um das Dashboard auf Ihrem eigenen Rechner zu verwenden, folgen Sie diesen Schri
 
 - **Datenaktualisierung**: Wenn Sie die zugrunde liegenden CSV-Dateien aktualisieren (z.B. mit neueren Versionen von Inside Airbnb), können Sie das Tableau-Dashboard einfach aktualisieren, um die neuen Daten anzuzeigen.
 - **Export**: Sie können die Dashboards als PDF oder Bild exportieren, indem Sie in Tableau auf `Datei > Exportieren` klicken.
-
-## Lizenz
-
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen finden Sie in der Datei `LICENSE`.
-
-## Kontakt
-
-Für Fragen oder Anmerkungen zu diesem Projekt können Sie mich unter [Ihre E-Mail-Adresse] kontaktieren.
